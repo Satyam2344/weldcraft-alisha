@@ -7,7 +7,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { toast } from "sonner";
 import { useLanguage } from "@/contexts/LanguageContext";
 
-const WHATSAPP_NUMBER = "919140785089";
+const WHATSAPP_NUMBER = "917683053347";
 
 const serviceOptions = [
   { key: "mig", rate: "₹500/hr" },

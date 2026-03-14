@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import { Phone, MessageCircle, MapPin, Clock, Instagram, Facebook, Youtube } from "lucide-react";
 import { useLanguage } from "@/contexts/LanguageContext";
 
-const PHONE_NUMBER = "+919140785089";
-const WHATSAPP_NUMBER = "919140785089";
+const PHONE_NUMBER = "+917683053347";
+const WHATSAPP_NUMBER = "917683053347";
 
 const SOCIALS = [
   { icon: Instagram, href: "https://instagram.com/weldcraft", label: "Instagram", color: "#E4405F" },

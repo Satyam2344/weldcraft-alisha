@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { useLanguage, Language } from "@/contexts/LanguageContext";
 import ThemeToggle from "@/components/ThemeToggle";
 
-const PHONE_NUMBER = "+919140785089";
+const PHONE_NUMBER = "+917683053347";
 
 const langLabels: Record<Language, string> = { en: "English", hi: "हिन्दी", hinglish: "Hinglish" };
 
